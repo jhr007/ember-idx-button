@@ -35,7 +35,8 @@
     "ember-addon"
   ],
   "ember-addon": {
-    "configPath": "tests/dummy/config"
+    "configPath": "tests/dummy/config",
+    "demoURL": "http://indexiatech.github.io/ember-idx-button"
   },
   "dependencies": {
     "ember-idx-utils": "^0.2.2",
